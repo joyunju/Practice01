@@ -15,6 +15,8 @@ public class Ex05 {
 		double time = 60.0;
 		double distance = speed * time;
 		
+		//예상 출력 값 : 5400.0
 		System.out.println(distance);
+		
 	}
 }
