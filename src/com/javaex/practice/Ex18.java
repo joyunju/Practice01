@@ -12,7 +12,7 @@ public class Ex18 {
 		
 		Scanner sc = new Scanner(System.in);
 		System.out.print("화씨 : ");
-		double ondo = sc.nextInt();
+		double ondo = sc.nextDouble();
 		
 		//5/9 --> 형변환 (double)
 		double change = (double)5/9 * (ondo - 32);
